@@ -1,7 +1,11 @@
 div {
+
     font-family: Arial;
+
     padding-top: 2%;
     padding-left: 8%;
     padding-right: 8%;
-    justify-content: end;
+
+    text-align: justify;
+
 }
