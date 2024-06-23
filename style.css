@@ -14,11 +14,26 @@
 #button1 {
 
     font-family: Arial;
+    font-size: 17px;
     padding: 10px;
     background-color: rgb(9, 140, 255);
     color: white;
     border: none;
 
     border-radius: 10px;
+
+}
+
+#list1 {
+
+    opacity: 0;
+    transition-duration: all 0.2s;
+
+}
+
+#list1.alt {
+
+    opacity: 1;
+    transition-duration: all 0.2s;
 
 }
