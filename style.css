@@ -26,6 +26,7 @@
 
 #list1 {
 
+    visibility: hidden;
     opacity: 0;
     transition-duration: all 0.2s;
 
@@ -33,6 +34,7 @@
 
 #list1.alt {
 
+    visibility: visible;
     opacity: 1;
     transition-duration: all 0.2s;
 
