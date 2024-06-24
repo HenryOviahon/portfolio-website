@@ -11,7 +11,26 @@
 
 }
 
-#button1 {
+a {
+    color:white;
+}
+
+nav {
+
+    font-family: Arial;
+    font-size: 15;
+
+    padding-top: 2%;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-bottom: 2%;
+
+    background-color: rgb(9, 140, 255);
+    
+    border-radius: 10px;
+}
+
+button {
 
     font-family: Arial;
     font-size: 17px;
