@@ -64,6 +64,13 @@ button {
 
 }
 
+.box
+{
+    border-radius:10px; border:2px solid rgb(73, 175, 248); padding:2%; /*width:200px; */ text-align:center;
+
+    
+}
+
 /* #list1.alt {
 
     visibility: visible;
