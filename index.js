@@ -1,7 +1,7 @@
 
 
 //enable opacity of java list
-function myFunction() {
+function buttonResume() {
 
     var list1 = document.getElementById("list1");
     var button1 = document.getElementById("button1");
