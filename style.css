@@ -29,20 +29,7 @@ nav {
     border-radius: 10px;
 }
 
-.button {
-
-    font-family: Arial;
-    font-size: 17px;
-    padding: 10px;
-    background-color: rgb(9, 140, 255);
-    color: white;
-    border: none;
-
-    border-radius: 10px;
-
-}
-
-button {
+.button, button {
 
     font-family: Arial;
     font-size: 17px;
